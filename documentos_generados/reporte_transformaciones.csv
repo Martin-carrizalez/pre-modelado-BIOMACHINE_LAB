@@ -1,0 +1,15 @@
+Metrica,Valor
+Variables totales,41
+Variables críticas (>5),6
+Variables severas (3-5),4
+Variables moderadas (1-3),10
+Variables aceptables (<1),21
+,
+Transformaciones Yeo-Johnson,10
+Transformaciones Log(x+1),10
+Sin transformación,21
+,
+Normales antes,0
+Normales después,1
+Variables que mejoraron,18
+Promedio mejora skewness (%),80.9590499458771

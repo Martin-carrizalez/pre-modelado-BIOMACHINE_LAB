@@ -1,0 +1,9 @@
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar caché de Python
+__pycache__/
+
+# Si alguna vez añades un entorno virtual
+.venv/
+venv/

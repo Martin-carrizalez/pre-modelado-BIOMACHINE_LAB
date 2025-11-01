@@ -1,0 +1,42 @@
+Variable,Tipo
+Grupo Sanguíneo,Categórica
+Ciclo (R/I),Categórica
+Embarazada (S/N),Categórica
+Aumento Peso (S/N),Categórica
+Crecimiento Vello (S/N),Categórica
+Oscurecimiento Piel (S/N),Categórica
+Pérdida Cabello (S/N),Categórica
+Acné (S/N),Categórica
+Comida Rápida (S/N),Categórica
+Ejercicio Regular (S/N),Categórica
+Número Abortos,Count
+Duración Ciclo (días),Count
+Años Casada,Count
+Num Folículos (I),Count
+Num Folículos (D),Count
+Edad (años),Continua
+Peso (Kg),Continua
+Altura (cm),Continua
+IMC,Continua
+Frecuencia Cardiaca (lpm),Continua
+Frecuencia Respiratoria (rpm),Continua
+Hemoglobina (g/dl),Continua
+beta-HCG I (mUI/mL),Continua
+beta-HCG II (mUI/mL),Continua
+FSH (mUI/mL),Continua
+LH (mUI/mL),Continua
+Ratio FSH/LH,Continua
+Cadera (pulg),Continua
+Cintura (pulg),Continua
+Ratio Cintura-Cadera,Continua
+TSH (mUI/L),Continua
+AMH (ng/mL),Continua
+Prolactina (ng/mL),Continua
+Vitamina D3 (ng/mL),Continua
+Progesterona (ng/mL),Continua
+Glucosa (mg/dl),Continua
+Presión Sistólica (mmHg),Continua
+Presión Diastólica (mmHg),Continua
+Tamaño Folículo Prom (I) (mm),Continua
+Tamaño Folículo Prom (D) (mm),Continua
+Endometrio (mm),Continua
