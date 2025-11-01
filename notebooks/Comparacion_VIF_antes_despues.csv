@@ -1,0 +1,7 @@
+Métrica,Antes,Después
+Variables numéricas,41.0,32.0
+VIF promedio,4657.105866082073,90.01644237269245
+VIF máximo,58321.24075130663,1209.5195303648622
+Variables VIF>10,30.0,20.0
+Variables VIF 5-10,2.0,3.0
+Variables VIF<5,9.0,9.0
