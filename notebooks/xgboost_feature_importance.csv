@@ -1,0 +1,42 @@
+Feature,Importance
+Num Folículos (D),0.1319123
+Crecimiento Vello (S/N),0.095425606
+Comida Rápida (S/N),0.0806602
+Num Folículos (I),0.06776349
+Ciclo (R/I),0.052759755
+Aumento Peso (S/N),0.037792828
+Duración Ciclo (días),0.033552036
+Ejercicio Regular (S/N),0.026171083
+Oscurecimiento Piel (S/N),0.023723483
+Presión Sistólica (mmHg),0.022493776
+Endometrio (mm),0.021827823
+AMH (ng/mL),0.021784602
+Tamaño Folículo Prom (D) (mm),0.018501693
+Progesterona (ng/mL),0.018363299
+Glucosa (mg/dl),0.017367039
+TSH (mUI/L),0.017060079
+Cadera (pulg),0.01700835
+Tamaño Folículo Prom (I) (mm),0.016701126
+Ratio FSH/LH,0.016115507
+Años Casada,0.015232476
+Número Abortos,0.015224531
+LH (mUI/mL),0.0151556935
+Hemoglobina (g/dl),0.014758973
+Ratio Cintura-Cadera,0.014679632
+FSH (mUI/mL),0.0146441
+Peso (Kg),0.014571274
+Altura (cm),0.014465953
+Grupo Sanguíneo,0.0140657835
+Edad (años),0.012897403
+Frecuencia Respiratoria (rpm),0.012866152
+IMC,0.0125254905
+beta-HCG I (mUI/mL),0.012263795
+beta-HCG II (mUI/mL),0.012007632
+Embarazada (S/N),0.011970108
+Cintura (pulg),0.011152619
+Prolactina (ng/mL),0.011092587
+Acné (S/N),0.009579554
+Vitamina D3 (ng/mL),0.009562025
+Frecuencia Cardiaca (lpm),0.007844451
+Presión Diastólica (mmHg),0.006455699
+Pérdida Cabello (S/N),0.0

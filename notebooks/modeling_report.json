@@ -1,0 +1,25 @@
+{
+  "fecha": "2025-11-02 00:12:46",
+  "dataset_original_filas": 538,
+  "dataset_original_columnas": 42,
+  "train_test_split": "80% / 0%",
+  "train_samples": 430,
+  "test_samples": 108,
+  "smote_applied": true,
+  "train_balanced_samples": 578,
+  "cv_folds": 5,
+  "modelos_entrenados": [
+    "Logistic Regression",
+    "Random Forest",
+    "XGBoost",
+    "KNN"
+  ],
+  "mejor_modelo": "Random Forest",
+  "mejor_f1_score": 0.8169014084507042,
+  "features_seleccionadas": {
+    "Logistic Regression": 18,
+    "Random Forest": 40,
+    "XGBoost": 41,
+    "KNN": 41
+  }
+}

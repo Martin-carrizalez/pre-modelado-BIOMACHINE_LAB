@@ -1,0 +1,42 @@
+Feature,SHAP_Mean_Abs
+Num Folículos (D),1.7338935
+Aumento Peso (S/N),0.71539444
+Crecimiento Vello (S/N),0.64403313
+Num Folículos (I),0.6168931
+Oscurecimiento Piel (S/N),0.5367488
+Ciclo (R/I),0.51927346
+AMH (ng/mL),0.31912777
+Acné (S/N),0.30752927
+Duración Ciclo (días),0.2899035
+Comida Rápida (S/N),0.20333661
+Glucosa (mg/dl),0.19599469
+TSH (mUI/L),0.1900453
+Endometrio (mm),0.1726648
+Años Casada,0.14080463
+Progesterona (ng/mL),0.13344532
+Pérdida Cabello (S/N),0.124889866
+Ratio FSH/LH,0.117579736
+beta-HCG I (mUI/mL),0.11527721
+Hemoglobina (g/dl),0.10873105
+Peso (Kg),0.08692681
+FSH (mUI/mL),0.08439942
+Altura (cm),0.0793042
+Prolactina (ng/mL),0.07595835
+LH (mUI/mL),0.066834845
+Edad (años),0.0562728
+Vitamina D3 (ng/mL),0.052873794
+IMC,0.049252827
+Ratio Cintura-Cadera,0.047531176
+Frecuencia Respiratoria (rpm),0.046407882
+Ejercicio Regular (S/N),0.043855764
+Cadera (pulg),0.038068775
+beta-HCG II (mUI/mL),0.03702306
+Cintura (pulg),0.036725625
+Tamaño Folículo Prom (D) (mm),0.036650226
+Tamaño Folículo Prom (I) (mm),0.033917185
+Presión Diastólica (mmHg),0.020266302
+Número Abortos,0.017067345
+Frecuencia Cardiaca (lpm),0.0127361575
+Grupo Sanguíneo,0.010164406
+Presión Sistólica (mmHg),0.009854329
+Embarazada (S/N),0.0030674487
